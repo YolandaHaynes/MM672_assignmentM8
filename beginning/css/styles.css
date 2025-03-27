@@ -230,11 +230,7 @@ footer img {
     width: 35px;
 }
 
-/* @media (max-width: 550px) {
-    header{
-      display:none;
-  }
-} */
+
 /** Small Devices like Phones **/
 @media (max-width: 575px) {
     header{
